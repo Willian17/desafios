@@ -1,7 +1,7 @@
-![image](https://user-images.githubusercontent.com/53010824/87086185-947cfc00-c207-11ea-92e2-6dd9ddfb8973.png)
+
 
 <h2 align="center">
-  Desafios Bootcamp GoStack 🚀
+  Desafios
 </h2>
 
 ## Índice dos desafios
