@@ -1,0 +1,65 @@
+.repository-item{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background: rgb(247, 245, 245);
+    border-radius: 7px;
+    box-shadow:  0.5px 0.5px 16px -8px rgba(0,0,0,0.69);
+}
+
+.repository-item li {
+   list-style-type: none;
+   padding: 30px;
+}
+
+.repository-item li h1{
+    font-family: DM Serif Display;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 25px;
+letter-spacing: 0.01em;
+color: #081F32;
+}
+
+.repository-item li .techs{
+    font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 25px;
+color: #6E798C;
+display: block;
+margin: 20px 0;
+}
+
+.repository-item li .likes{
+    margin-right: 10px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: rgba(255, 7, 7, 0.952);
+}
+.repository-item li .openButton{
+   background-color: #2ECC71;
+   width: 80px;
+   height: 25px;
+   border: none;   
+   position: relative;
+   margin-left: 50px;
+}
+
+.repository-item li .openButton a{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+

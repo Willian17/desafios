@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 14px;
+
+}
+
+.app h1.title{
+text-align: center;
+}
+
+.app .content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow: row wrap;
+    flex-wrap: wrap;
+    height: 90vh;
+
+
+}
+
+
