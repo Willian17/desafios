@@ -6,8 +6,8 @@
 
 ## Índice dos desafios
 
-- [dasafio 01 - Conceitos do Node.js](https://github.com/Willian17/bootcamp-goStack-desafios/tree/master/desafio01-conceitos-do-node.js) 🚀 Done :heavy_check_mark:
-- [02 - Conceitos do ReactJS]() :construction: In progress.. :construction:
+- [desafio 01 - Conceitos do Node.js](https://github.com/Willian17/bootcamp-goStack-desafios/tree/master/desafio01-conceitos-do-node.js) 🚀 Done :heavy_check_mark:
+- [desafio 02 - Conceitos React.js]() 🚀 Done :heavy_check_mark:
 - [03 - Conceitos do React Native]() :construction: In progress.. :construction:
 - [04 - Fundamentos TypeScript]() :construction: In progress.. :construction:
 - [05 - Fundamentos do Node.js]() :construction: In progress.. :construction:
