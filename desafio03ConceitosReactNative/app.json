@@ -1,0 +1,12 @@
+{
+  "name": "desafio03ConceitosReactNative",
+  "displayName": "desafio03ConceitosReactNative",
+  "expo": {
+    "name": "desafio03ConceitosReactNative",
+    "slug": "desafio03ConceitosReactNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
